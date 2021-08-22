@@ -1,0 +1,1 @@
+Be careful when moving this folder!! The LinkedPercentageManager.cs relies on this path within your project. If you do move the folder make sure to update the path in that file

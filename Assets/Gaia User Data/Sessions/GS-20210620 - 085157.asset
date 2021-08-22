@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20210620 - 085157
+  m_EditorClassIdentifier: 
+  m_name: Session 20210620-085157
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 6/20/2021 8:51:57 AM
+  m_terrainWidth: 2048
+  m_terrainDepth: 2048
+  m_terrainHeight: 2048
+  m_seaLevel: 50
+  m_spawnDensity: 0.4
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 2048'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 6/20/2021 8:51:58 AM
+    scriptableObjectAssetGUID: 9b1428554f5e7f94e8230955c5896bb5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - No Masks
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 8:53:04 AM
+    scriptableObjectAssetGUID: b1fd51fb9b637bc4a9bbc4ec711c3222
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 8:53:05 AM
+    scriptableObjectAssetGUID: b04f24f51db54d046ac95831b6024ee7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (4)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 8:53:28 AM
+    scriptableObjectAssetGUID: 8378d7a718a51ab448e21c9f5caa178b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, CurrentTerrainOnly,
+      AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 8:57:42 AM
+    scriptableObjectAssetGUID: fc807a6be70e15f4db38c5e0d5e335e7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 8:58:03 AM
+    scriptableObjectAssetGUID: 3b68cc06d83514f4dbc8ee362c835103
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 8:58:16 AM
+    scriptableObjectAssetGUID: 1569c5ee6f61dae488638711a9d6a62f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs SpawnExt Probes, CurrentTerrainOnly,
+      AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 8:59:02 AM
+    scriptableObjectAssetGUID: 141ef818096227f4297f4cb2418cb7cb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 8:59:13 AM
+    scriptableObjectAssetGUID: 3302cfe8d18672346af57ad5212fa0ec
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 8:59:58 AM
+    scriptableObjectAssetGUID: 7ed30045dbbb29f41902769f8200d079
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 9:10:48 AM
+    scriptableObjectAssetGUID: 2964ff99e29f26243a7969652bed6029
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 9:11:29 AM
+    scriptableObjectAssetGUID: 285a1b19c20937a41b76181a973bad53
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 9:11:31 AM
+    scriptableObjectAssetGUID: 4b30ab7f5ac556e45b6895e8ffdd2ee2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 9:11:54 AM
+    scriptableObjectAssetGUID: fdfb8bcb8e8ec4640a693168c8f31380
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 9:12:10 AM
+    scriptableObjectAssetGUID: b281f3ab4a57e954790e5d01e1cd476e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 085158
+    m_operationDateTime: 6/20/2021 9:12:56 AM
+    scriptableObjectAssetGUID: 859ca0e975c4b20429c01f1358f13a00
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 80cc83cf3f3be82448b08d191159b0e9
+    isWorldmap: 0
+    recalculate: 0
+    min: 2048
+    max: 14.875227
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20210620 - 085158_LayerGameObject_3584_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20210620
+      - 085158/Terrain_0_0-20210620 - 085158_LayerGameObject_3584_5
+    fullPath: C:/Iskra/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20210620
+      - 085158/Terrain_0_0-20210620 - 085158_LayerGameObject_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20210620 - 085158_RadiusTag_Synty Small Farm_50
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20210620
+      - 085158/Terrain_0_0-20210620 - 085158_RadiusTag_Synty Small Farm_50
+    fullPath: C:/Iskra/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20210620
+      - 085158/Terrain_0_0-20210620 - 085158_RadiusTag_Synty Small Farm_50
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20210620 - 085158_RadiusTag_Synty Medium Farm_100
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20210620
+      - 085158/Terrain_0_0-20210620 - 085158_RadiusTag_Synty Medium Farm_100
+    fullPath: C:/Iskra/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20210620
+      - 085158/Terrain_0_0-20210620 - 085158_RadiusTag_Synty Medium Farm_100
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}

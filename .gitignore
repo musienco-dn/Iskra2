@@ -4,6 +4,12 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/Procedural Worlds*
+Assets/Stylized Nature Pack*
+Assets/Malbers Animations*
+Assets/Emerald AI*
+Assets/Plugins*
+Assets/polygon knights*
 
 # Visual Studio cache directory
 .vs/

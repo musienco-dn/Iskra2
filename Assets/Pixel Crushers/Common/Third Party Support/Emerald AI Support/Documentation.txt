@@ -1,0 +1,18 @@
+Save System for Emerald AI 2.0
+Copyright © Pixel Crushers. All rights reserved.
+Emerald AI © Black Horizon Studios.
+
+
+INSTRUCTIONS:
+
+- Add an Emerald AI Saver to any AIs whose state you want to save. 
+  This will save the AI's position, health, and behavior.
+
+- Add an Emerald AI Health Monitor to any AIs whose health you want
+  to monitor. You can assign event handlers and Message System messages
+  when the AI is damaged and/or killed.
+
+
+RELEASE NOTES:
+Version 1.0.0:
+- Initial release.

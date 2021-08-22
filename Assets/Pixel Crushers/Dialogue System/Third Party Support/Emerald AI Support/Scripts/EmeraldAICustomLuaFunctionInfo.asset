@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d44a0b778e51584a8b00171e38b0bce, type: 3}
+  m_Name: EmeraldAICustomLuaFunctionInfo
+  m_EditorClassIdentifier: 
+  conditionFunctions:
+  - functionName: Emerald/GetEmeraldAIHealth
+    parameters: 02000000
+    returnValue: 2
+  scriptFunctions:
+  - functionName: Emerald/DamageEmeraldAI
+    parameters: 020000000100000002000000
+    returnValue: 0
+  - functionName: Emerald/EmeraldAIEmote
+    parameters: 020000000100000001000000
+    returnValue: 0
+  - functionName: Emerald/EmeraldAIFollow
+    parameters: 020000000200000002000000
+    returnValue: 0
+  - functionName: Emerald/EmeraldAIStay
+    parameters: 02000000
+    returnValue: 0
+  - functionName: Emerald/SetEmeraldPlayerRelation
+    parameters: 0200000002000000
+    returnValue: 0
+  - functionName: Emerald/SetEmeraldFactionRelation
+    parameters: 020000000200000002000000
+    returnValue: 0
+  - functionName: Emerald/SetEmeraldBehavior
+    parameters: 0200000002000000
+    returnValue: 0
+  - functionName: Emerald/SetEmeraldConfidence
+    parameters: 0200000002000000
+    returnValue: 0
+  - functionName: Emerald/SetEmeraldDestination
+    parameters: 0200000002000000
+    returnValue: 0
+  - functionName: Emerald/SetEmeraldItem
+    parameters: 020000000100000000000000
+    returnValue: 0
+  - functionName: Emerald/SetEmeraldWander
+    parameters: 0200000002000000
+    returnValue: 0
+  - functionName: Emerald/SetEmeraldWeapon
+    parameters: 020000000200000000000000
+    returnValue: 0

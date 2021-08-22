@@ -1,0 +1,1090 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20210620 - 092516
+  m_EditorClassIdentifier: 
+  m_name: Session 20210620-092516
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 6/20/2021 9:25:16 AM
+  m_terrainWidth: 2048
+  m_terrainDepth: 2048
+  m_terrainHeight: 2048
+  m_seaLevel: 0
+  m_spawnDensity: 0.4
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 2048'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 6/20/2021 9:25:17 AM
+    scriptableObjectAssetGUID: 4f1154cd00e3d2d449b72f7f5427347e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - No Masks
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 9:25:40 AM
+    scriptableObjectAssetGUID: a0af16e0ca658bf4195552d21ef99a71
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 9:25:41 AM
+    scriptableObjectAssetGUID: ce88cc67abf367f4082433e54cb7cb80
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 10:01:12 AM
+    scriptableObjectAssetGUID: 31d10ef885915914faba0ba77d50cd20
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, CurrentTerrainOnly, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 10:04:59 AM
+    scriptableObjectAssetGUID: fa7e01011b79ccf48a8381b081bdf304
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, CurrentTerrainOnly, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 10:30:45 AM
+    scriptableObjectAssetGUID: a81a98d75d576334f93b180856eae760
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 10:32:34 AM
+    scriptableObjectAssetGUID: 60e2a2ff4bde4c648894641bb35af897
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 10:34:35 AM
+    scriptableObjectAssetGUID: 8c771404abd2bcc42a68c70482be192f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:34:03 PM
+    scriptableObjectAssetGUID: a423890681e88ec4e8b751162d0fd053
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, CurrentTerrainOnly, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:34:48 PM
+    scriptableObjectAssetGUID: caf36db13c9c4f74d93bdb9b95b0ddef
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:34:54 PM
+    scriptableObjectAssetGUID: 4dc5764527b805944af257cfa67c2be1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, CurrentTerrainOnly, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:35:22 PM
+    scriptableObjectAssetGUID: 45807cfc0cb0d7b46a510201aeb7b263
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:35:55 PM
+    scriptableObjectAssetGUID: f9e4689e1b6d14d40b268984c5dc6c79
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:36:46 PM
+    scriptableObjectAssetGUID: 714303cc926e561449ac63ecbc57977c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:37:04 PM
+    scriptableObjectAssetGUID: 259b89abaae5e464db9bcee5e0877bc2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:37:15 PM
+    scriptableObjectAssetGUID: c27968bf06383a54a9fefd29ed17a6c2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 6/20/2021 1:39:58 PM
+    scriptableObjectAssetGUID: 3ba4c6f3c2ef2e847b21b5323ebc72ba
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:40:50 PM
+    scriptableObjectAssetGUID: 7006c3803720dc944b75c1f232de9e16
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:41:14 PM
+    scriptableObjectAssetGUID: 1c3b073d783293548a2e86f9dcb92057
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:41:19 PM
+    scriptableObjectAssetGUID: 0d522f00802fa3a4a8720662f87b88bc
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:41:26 PM
+    scriptableObjectAssetGUID: 776ecafafbeee3345b79f0143b518cb4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:42:01 PM
+    scriptableObjectAssetGUID: ed604a77e52874d4398230e35c85fad3
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:42:11 PM
+    scriptableObjectAssetGUID: 2c2689224f41c29498e7bbe8abe4d99c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:42:25 PM
+    scriptableObjectAssetGUID: 839ae3a71f9ccdf428fe32e4d1718e9a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Detail Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:44:04 PM
+    scriptableObjectAssetGUID: 74fcf514929c5f746b841acf2f577b46
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:44:18 PM
+    scriptableObjectAssetGUID: 1016e76893882be4d89d1688b8014f34
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Detail Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:44:20 PM
+    scriptableObjectAssetGUID: fc8c5c6ca03dbb54084c8403327f1c02
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Detail Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:44:57 PM
+    scriptableObjectAssetGUID: ccd685c9f99073b4590b677b991dc80b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, CurrentTerrainOnly, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:47:19 PM
+    scriptableObjectAssetGUID: e458fa0b0bc24de4b9c92afeeface192
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (2)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:47:25 PM
+    scriptableObjectAssetGUID: 74210ff17f103d94ebf249fc25b86946
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (2)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:47:50 PM
+    scriptableObjectAssetGUID: 7ef7604f45e8d1543a71f706c4780884
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Detail Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:48:19 PM
+    scriptableObjectAssetGUID: f2474f58ee9ce9c47aa420975c9a7fa2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Detail Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:48:22 PM
+    scriptableObjectAssetGUID: e2b62bb3a14831249823b5520cc770ee
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (2)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:48:26 PM
+    scriptableObjectAssetGUID: e8f3597763d23bb44b7ec5017d3d5e49
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, CurrentTerrainOnly, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:49:12 PM
+    scriptableObjectAssetGUID: 7ca73d27408aed94cbeeeccac5a6c268
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Detail Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:50:15 PM
+    scriptableObjectAssetGUID: 77c8c7080a9ea244b8559b482cf32222
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Detail Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 1:50:54 PM
+    scriptableObjectAssetGUID: 48fd03404aa7f7a45bf11147a2429d50
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (2)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 7:06:57 PM
+    scriptableObjectAssetGUID: 624864526fa15a3458bc9524d9ebba65
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (2)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 7:10:56 PM
+    scriptableObjectAssetGUID: 47c2bd68407fa374b8d2e4dd4649e007
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:07:43 PM
+    scriptableObjectAssetGUID: 4c299ff8615bba947af23388b900f347
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:07:54 PM
+    scriptableObjectAssetGUID: 6200dea2fc9d81b40ba218f437ae2f5c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:08:30 PM
+    scriptableObjectAssetGUID: 70cf8652d043f764a91d2a62d935079c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:09:01 PM
+    scriptableObjectAssetGUID: b5081dc023f98374aaced6f7d5d830c9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (2)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:27:27 PM
+    scriptableObjectAssetGUID: 23f55849ef0710c42ae113feb0bce65f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:27:34 PM
+    scriptableObjectAssetGUID: a968a0e6dd782864e9f06f2adb53ef81
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Tree Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:35:14 PM
+    scriptableObjectAssetGUID: 84944cf9cb54ef54cb5c5d0adc532aea
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Detail Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:35:45 PM
+    scriptableObjectAssetGUID: e29ab9872cb04464e9d13a8ca35adcc8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:35:57 PM
+    scriptableObjectAssetGUID: 784419afd3cdbba489f8c0d1cb6924df
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:39:26 PM
+    scriptableObjectAssetGUID: c5e7513a72bba3f4daa3173d615e961f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:40:48 PM
+    scriptableObjectAssetGUID: 0054bd5c24884834ea5fb4d29e5d291e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:42:18 PM
+    scriptableObjectAssetGUID: d72fdb15d1896534082eaa429ef4a3be
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:42:44 PM
+    scriptableObjectAssetGUID: 54dd2eb923823ad499601ff6db4b223e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (3)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/20/2021 8:43:00 PM
+    scriptableObjectAssetGUID: c049851e32c74b84a960c7c9adf9eed8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/22/2021 11:17:12 PM
+    scriptableObjectAssetGUID: 4f1504bfe52f8d14fa778f8f3a6f31f0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/22/2021 11:20:32 PM
+    scriptableObjectAssetGUID: 9a3c17418343058478696d20386486fc
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/22/2021 11:22:29 PM
+    scriptableObjectAssetGUID: 8bc15a06a1cf4b74893c37eeafa5cfaf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/22/2021 11:23:44 PM
+    scriptableObjectAssetGUID: 5be9214d9133fe940892bcb99c455ba2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/22/2021 11:25:24 PM
+    scriptableObjectAssetGUID: a77266fb7455c034f8239267316e6c44
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/22/2021 11:28:05 PM
+    scriptableObjectAssetGUID: ecc4576798f87044b95cdbb3bed0e224
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/23/2021 8:56:26 AM
+    scriptableObjectAssetGUID: 7856fa645fc145a4d8d101c167c4c35c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/23/2021 8:57:29 AM
+    scriptableObjectAssetGUID: 812ce94f12c3ed94cb9845e42f0ff5b6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/23/2021 8:58:06 AM
+    scriptableObjectAssetGUID: 6097893c0d4d1374482b5468fa653a84
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Texture Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/23/2021 9:06:10 AM
+    scriptableObjectAssetGUID: d646d41b2cbf5d94fa792d2f324cf09f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 9:48:00 AM
+    scriptableObjectAssetGUID: 69f1918ba724a0c4e820c3c8d250250b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 9:48:27 AM
+    scriptableObjectAssetGUID: 1eafafe85ed182b4581261f46cead4f6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:04:27 AM
+    scriptableObjectAssetGUID: 88f9cac6335582642af3395e01374a24
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:04:51 AM
+    scriptableObjectAssetGUID: 80e39323d136a2247ac13969542db306
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:05:16 AM
+    scriptableObjectAssetGUID: 85747a931599d4645bed46cd418ff9a8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:05:38 AM
+    scriptableObjectAssetGUID: 30abac99301e2214c8f1633ed4ce692f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:07:44 AM
+    scriptableObjectAssetGUID: 936ca4b4747a61545871d414a5538c3b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:08:32 AM
+    scriptableObjectAssetGUID: bea67a614a7d71c40892e6f22bef6a65
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:09:23 AM
+    scriptableObjectAssetGUID: 589eea0306bfa9a4d809316b8937f72e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:10:50 AM
+    scriptableObjectAssetGUID: b7d45b4fb800f1f46a71f621dfa77ea7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:11:19 AM
+    scriptableObjectAssetGUID: d6af897a082caad4baa355ff80cdd392
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:11:39 AM
+    scriptableObjectAssetGUID: 52dbdcd39d7c16a47b424231d0cd4484
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:12:01 AM
+    scriptableObjectAssetGUID: beaa7e70a23cdbc4b8e65c33b3f260a5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:12:15 AM
+    scriptableObjectAssetGUID: 4be60c2085e0ae24192389b6ff772011
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/24/2021 10:12:41 AM
+    scriptableObjectAssetGUID: 8309775f2b0496a43b25b34fbd32a085
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/25/2021 11:18:39 PM
+    scriptableObjectAssetGUID: 24cfe8d489b07134b8e4db7ad383de7a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/25/2021 11:19:34 PM
+    scriptableObjectAssetGUID: ee3c9977b7fd4ac46b6ec3f6fe6d9085
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/25/2021 11:20:00 PM
+    scriptableObjectAssetGUID: b396b2c61bda92745b3a3a4031dd0296
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/25/2021 11:20:44 PM
+    scriptableObjectAssetGUID: 1d05da026678ad04aba97fd396e354c2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/27/2021 4:49:24 PM
+    scriptableObjectAssetGUID: 3db83a7c4ae2e0040a359b61140341bb
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/27/2021 4:51:18 PM
+    scriptableObjectAssetGUID: a4998a82a85d2e14c8c2089d869a1ac4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/27/2021 4:52:32 PM
+    scriptableObjectAssetGUID: c1d0c23a63886ae49be66bba0adaabcf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 6/27/2021 7:41:04 PM
+    scriptableObjectAssetGUID: a04f70f3e89a3f347a1983496ff620e5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 7/18/2021 7:24:45 PM
+    scriptableObjectAssetGUID: 2d127e1655f7d954ebba3e98a1992169
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Spawning - '
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 7/18/2021 7:25:24 PM
+    scriptableObjectAssetGUID: 673d55c5c2726b0478326d84fab00c54
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 8/1/2021 7:52:57 PM
+    scriptableObjectAssetGUID: 57c1a25cb2a9eba44b71123947d0814b
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 8/1/2021 7:54:35 PM
+    scriptableObjectAssetGUID: 9ae32abb5fde4294ea9036ee9abb8588
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 8/1/2021 7:55:17 PM
+    scriptableObjectAssetGUID: 4a40ffd6d84713e49a8e9da6616079c1
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Synty Farm Spawner(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20210620 - 092517
+    m_operationDateTime: 8/7/2021 8:42:28 PM
+    scriptableObjectAssetGUID: 2c665fbb27e5ebc4fb55ae86a77457f6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: afeb196098e8dde47b508e1d18e98a2e
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 155.00237
+  - guid: a1687bf1f36202649b76b7cf3055d69f
+    isWorldmap: 0
+    recalculate: 0
+    min: 2048
+    max: 285.00436
+  - guid: 8c329632c3b67d64e8cb6f3e94f5a8c7
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 42.250645
+  - guid: 36067a0f5aea5ba4098fb0da16a0b74c
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 1.0000153
+  - guid: e1bea0b6861198648833f7d070a072d4
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 129.25197
+  - guid: 521d7638c368fee45b3546561e496e05
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 7.000107
+  - guid: 41a068fdbfeee4949bae81e28357f7e4
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0.5000076
+  - guid: 3456d4d3e140e364fbdcf27331eef22e
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 1.6250248
+  - guid: 5332408932cace549881317a6b8c84b9
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0.2500038
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}
